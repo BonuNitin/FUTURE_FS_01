@@ -143,7 +143,7 @@ function App() {
 
       {/* Footer */}
       <footer className="footer">
-        <p>&copy; {new Date().getFullYear()} Saikumar. Built for Future Interns.</p>
+        <p>&copy; {new Date().getFullYear()} Nitin. Built for Future Interns.</p>
       </footer>
 
     </div>
